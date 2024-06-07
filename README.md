@@ -1,1 +1,1 @@
-# PRODIGY_TrackCode_TaskNumber
+using this code you can encrypt or decrypt a plaintext by providing to its function.The first function creates a key, which is a dictionary used for encrypting or decrypting text or files. Each letter, number, or special character used in the text is assigned a list of two random characters. This means that each character in the message can be replaced with two random characters, making it difficult to detect patterns. Furthermore, you can increase the number of characters assigned to each letter, which enhances security.
